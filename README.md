@@ -30,21 +30,17 @@ A horizontally scalable user management service with role-based access control (
 
 ## Installation
 
-1. Clone the repository:
-```bash
-git clone <repository-url>
-cd partner-portal
-```
 
-2. Install dependencies:
+
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Create a `.env` file in the root directory:
+2. Create a `.env` file in the root directory:
 
 
-4. Start the server:
+3. Start the server:
 ```bash
 npm run dev
 ```
